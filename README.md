@@ -126,7 +126,7 @@ Once you've made an expression, you can start putting Tags inside of it. These a
 ![](https://i.imgur.com/dP3cJU8.png)
 __________________________________________________________________________________________________________________________
 
-Once you've done all of this, your ability blueprint is ready to be used and call the effect(s) that you've put inside of it. All you need to do, is add inside your blueprint from where you want to do the skill, the TK_AbilityComponent. Then call the function DoAbility() from that component in whatever input or event you want it to be ran, don't forget to choose your abilityskill blueprint:
+Once you've done all of this, your ability blueprint is ready to be used and call the effect(s) that you've put inside of it. All you need to do, is add inside your blueprint from where you want to do the skill, the UGCSAbilityComponent. Then call the function DoAbility() from that component in whatever input or event you want it to be ran, don't forget to choose your abilityskill blueprint:
 
 ![](https://i.imgur.com/xymOhrG.png)
 
